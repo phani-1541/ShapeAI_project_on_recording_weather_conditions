@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - VIKARABAD  || 24 Jun 2021 | 12:58:59 AM
+-------------------------------------------------------------
+Current temperature is: 23.58 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 74 %
+Current wind speed    : 3.35 kmph
